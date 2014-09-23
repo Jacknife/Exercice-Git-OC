@@ -17,3 +17,5 @@ Troisième commit : ajout de contenu au fichier index.html
 Quatrième commit : ajout de contenu au fichier index.html, et création d'un fichier style.css
 
 Cinquième commit : link html <-> css, et ajout de contenu css
+
+Sixième et dernier commit : un dernier petit ajout de style css, et inversion du paragraphe et de la liste
