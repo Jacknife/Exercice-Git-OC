@@ -11,3 +11,5 @@ Chaque commit verra ce fichier readme updaté pour suivre les différentes versi
 Premier commit : initial commit
 
 Second commit : création du fichier index.html, et de son squelette (balises html, head et body, d'un titre de page et de paragraphe).
+
+Troisième commit : ajout de contenu au fichier index.html
